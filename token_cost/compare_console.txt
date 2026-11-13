@@ -1,0 +1,59 @@
+﻿{
+  "a": {
+    "folder": "results",
+    "model": "qwen2.5:7b",
+    "overhead": 22
+  },
+  "b": {
+    "folder": "results_3b",
+    "model": "qwen2.5:3b",
+    "overhead": 22
+  },
+  "identical_input_counts": 1.0,
+  "by_language": {
+    "en": {
+      "input_tokens": {
+        "a": 2073,
+        "b": 2073
+      },
+      "output_tokens": {
+        "a": 1782,
+        "b": 2116
+      },
+      "latency_mean": {
+        "a": 6.81,
+        "b": 4.66
+      },
+      "truncated": {
+        "a": 3,
+        "b": 3
+      }
+    },
+    "bn": {
+      "input_tokens": {
+        "a": 5543,
+        "b": 5543
+      },
+      "output_tokens": {
+        "a": 5468,
+        "b": 6189
+      },
+      "latency_mean": {
+        "a": 21.96,
+        "b": 14.25
+      },
+      "truncated": {
+        "a": 12,
+        "b": 18
+      }
+    }
+  },
+  "bn_en_input_ratio": {
+    "a": 2.6739,
+    "b": 2.6739
+  },
+  "bn_en_total_cost_ratio": {
+    "a": 2.9796,
+    "b": 2.8755
+  }
+}

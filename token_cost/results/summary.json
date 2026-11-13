@@ -1,0 +1,115 @@
+{
+  "pairs": 50,
+  "totals": {
+    "en": {
+      "input_tokens": 2073,
+      "net_input_tokens": 973,
+      "output_tokens": 1782,
+      "cost_usd": 0.00138
+    },
+    "bn": {
+      "input_tokens": 5543,
+      "net_input_tokens": 4443,
+      "output_tokens": 5468,
+      "cost_usd": 0.004112
+    }
+  },
+  "overall_input_ratio": 2.6739,
+  "overall_net_input_ratio": 4.5663,
+  "overall_output_ratio": 3.0685,
+  "overall_total_cost_ratio": 2.9796,
+  "per_pair": {
+    "input_ratio": {
+      "mean": 2.3864,
+      "median": 2.15,
+      "min": 1.2,
+      "max": 4.4722,
+      "ci95": [
+        2.1557,
+        2.6308
+      ]
+    },
+    "net_input_ratio": {
+      "mean": 4.3633,
+      "median": 4.6458,
+      "min": 1.75,
+      "max": 7.0,
+      "ci95": [
+        4.0002,
+        4.716
+      ]
+    },
+    "output_ratio": {
+      "mean": 4.933,
+      "median": 3.9545,
+      "min": 0.735,
+      "max": 18.1818,
+      "ci95": [
+        3.968,
+        6.0588
+      ]
+    },
+    "total_cost_ratio": {
+      "mean": 3.7764,
+      "median": 3.4424,
+      "min": 0.9966,
+      "max": 11.5676,
+      "ci95": [
+        3.2223,
+        4.4035
+      ]
+    }
+  },
+  "latency_s": {
+    "en": {
+      "mean": 6.81,
+      "median": 4.08
+    },
+    "bn": {
+      "mean": 21.96,
+      "median": 21.9
+    }
+  },
+  "truncated": {
+    "en": 3,
+    "bn": 12
+  },
+  "by_category": {
+    "arithmetic": {
+      "pairs": 8,
+      "net_input_ratio_mean": 2.472,
+      "input_ratio_mean": 1.607,
+      "total_cost_ratio_mean": 2.133
+    },
+    "explanation": {
+      "pairs": 8,
+      "net_input_ratio_mean": 5.343,
+      "input_ratio_mean": 2.195,
+      "total_cost_ratio_mean": 4.108
+    },
+    "instruction": {
+      "pairs": 8,
+      "net_input_ratio_mean": 4.751,
+      "input_ratio_mean": 2.056,
+      "total_cost_ratio_mean": 5.111
+    },
+    "long": {
+      "pairs": 8,
+      "net_input_ratio_mean": 4.979,
+      "input_ratio_mean": 3.84,
+      "total_cost_ratio_mean": 2.577
+    },
+    "question": {
+      "pairs": 10,
+      "net_input_ratio_mean": 3.765,
+      "input_ratio_mean": 1.722,
+      "total_cost_ratio_mean": 4.489
+    },
+    "summarise": {
+      "pairs": 8,
+      "net_input_ratio_mean": 5.02,
+      "input_ratio_mean": 3.065,
+      "total_cost_ratio_mean": 4.063
+    }
+  }
+}

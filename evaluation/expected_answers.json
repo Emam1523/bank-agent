@@ -1,0 +1,105 @@
+{
+  "q01": {
+    "type": "number",
+    "values": [
+      350
+    ]
+  },
+  "q02": {
+    "type": "number",
+    "values": [
+      200
+    ]
+  },
+  "q03": {
+    "type": "number",
+    "values": [
+      35
+    ]
+  },
+  "q04": {
+    "type": "number",
+    "values": [
+      54448421.86
+    ]
+  },
+  "q05": {
+    "type": "number",
+    "values": [
+      3871889.81
+    ]
+  },
+  "q06": {
+    "type": "number",
+    "values": [
+      5
+    ]
+  },
+  "q07": {
+    "type": "number",
+    "values": [
+      202774.75
+    ]
+  },
+  "q08": {
+    "type": "text",
+    "values": [
+      "Tangail"
+    ]
+  },
+  "q09": {
+    "type": "text",
+    "values": [
+      "FIXED DEPOSIT|FIXED_DEPOSIT"
+    ]
+  },
+  "q10": {
+    "type": "text",
+    "values": [
+      "Eastern Bank|Eastern Bank PLC"
+    ]
+  },
+  "q11": {
+    "type": "number",
+    "values": [
+      1263174.76,
+      5775.82
+    ]
+  },
+  "q12": {
+    "type": "number",
+    "values": [
+      26493929.77
+    ]
+  },
+  "q13": {
+    "type": "number",
+    "values": [
+      25.91
+    ]
+  },
+  "q14": {
+    "type": "number",
+    "values": [
+      21.5
+    ]
+  },
+  "q15": {
+    "type": "number",
+    "values": [
+      1517009.21
+    ]
+  },
+  "q16": {
+    "type": "number",
+    "values": [
+      9.0
+    ]
+  },
+  "q17": {
+    "type": "none"
+  },
+  "q18": {
+    "type": "none"
+  }
+}

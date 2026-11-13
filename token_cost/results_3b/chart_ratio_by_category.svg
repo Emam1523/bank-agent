@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="380" font-family="Arial" font-size="12">
+<rect width="100%" height="100%" fill="white"/>
+<text x="360.0" y="22" text-anchor="middle" font-size="15" font-weight="bold">Bangla / English net input tokens per pair, by category</text>
+<line x1="60" x2="700" y1="320.0" y2="320.0" stroke="#e5e5e5"/><text x="52" y="324.0" text-anchor="end">0x</text>
+<line x1="60" x2="700" y1="286.23376623376623" y2="286.23376623376623" stroke="#e5e5e5"/><text x="52" y="290.23376623376623" text-anchor="end">1x</text>
+<line x1="60" x2="700" y1="252.46753246753246" y2="252.46753246753246" stroke="#e5e5e5"/><text x="52" y="256.46753246753246" text-anchor="end">2x</text>
+<line x1="60" x2="700" y1="218.7012987012987" y2="218.7012987012987" stroke="#e5e5e5"/><text x="52" y="222.7012987012987" text-anchor="end">3x</text>
+<line x1="60" x2="700" y1="184.93506493506496" y2="184.93506493506496" stroke="#e5e5e5"/><text x="52" y="188.93506493506496" text-anchor="end">4x</text>
+<line x1="60" x2="700" y1="151.1688311688312" y2="151.1688311688312" stroke="#e5e5e5"/><text x="52" y="155.1688311688312" text-anchor="end">5x</text>
+<line x1="60" x2="700" y1="117.40259740259742" y2="117.40259740259742" stroke="#e5e5e5"/><text x="52" y="121.40259740259742" text-anchor="end">6x</text>
+<line x1="60" x2="700" y1="83.63636363636368" y2="83.63636363636368" stroke="#e5e5e5"/><text x="52" y="87.63636363636368" text-anchor="end">7x</text>
+<rect x="80.0" y="236.5263863121006" width="70" height="83.47361368789939" fill="#2e75b6" opacity="0.85"/><text x="115.0" y="296" text-anchor="middle" font-weight="bold" fill="white">2.47x</text><text x="115.0" y="338" text-anchor="middle">arithmetic</text>
+<circle cx="92.0" cy="259.2207792207792" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="99.0" cy="210.25974025974028" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="106.0" cy="231.83261183261186" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="113.0" cy="252.46753246753246" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="120.0" cy="209.05380333951763" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="127.0" cy="260.90909090909093" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="134.0" cy="216.0" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="141.0" cy="252.46753246753246" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<rect x="183.33333333333331" y="139.5968614718615" width="70" height="180.4031385281385" fill="#2e75b6" opacity="0.85"/><text x="218.33333333333331" y="296" text-anchor="middle" font-weight="bold" fill="white">5.34x</text><text x="218.33333333333331" y="338" text-anchor="middle">explanation</text>
+<circle cx="195.33333333333331" cy="142.72727272727275" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="202.33333333333331" cy="83.63636363636368" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="209.33333333333331" cy="117.40259740259742" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="216.33333333333331" cy="162.42424242424244" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="223.33333333333331" cy="121.15440115440117" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="230.33333333333331" cy="147.41702741702747" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="237.33333333333331" cy="163.83116883116887" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="244.33333333333331" cy="178.1818181818182" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<rect x="286.66666666666663" y="159.57689136260566" width="70" height="160.42310863739434" fill="#2e75b6" opacity="0.85"/><text x="321.66666666666663" y="296" text-anchor="middle" font-weight="bold" fill="white">4.75x</text><text x="321.66666666666663" y="338" text-anchor="middle">instruction</text>
+<circle cx="298.66666666666663" cy="184.93506493506496" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="305.66666666666663" cy="172.27272727272728" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="312.66666666666663" cy="143.6652236652237" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="319.66666666666663" cy="163.83116883116887" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="326.66666666666663" cy="134.2857142857143" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="333.66666666666663" cy="151.1688311688312" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="340.66666666666663" cy="180.11131725417442" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="347.66666666666663" cy="146.34508348794063" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<rect x="390.0" y="151.88826064369306" width="70" height="168.11173935630694" fill="#2e75b6" opacity="0.85"/><text x="425.0" y="296" text-anchor="middle" font-weight="bold" fill="white">4.98x</text><text x="425.0" y="338" text-anchor="middle">long</text>
+<circle cx="402.0" cy="174.86443381180226" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="409.0" cy="131.7845117845118" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="416.0" cy="141.89966895849253" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="423.0" cy="202.06286467156036" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="430.0" cy="117.40259740259742" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="437.0" cy="155.54593554593558" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="444.0" cy="159.20841063698208" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="451.0" cy="132.33766233766235" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<rect x="493.3333333333333" y="192.87012987012986" width="70" height="127.12987012987014" fill="#2e75b6" opacity="0.85"/><text x="528.3333333333333" y="296" text-anchor="middle" font-weight="bold" fill="white">3.77x</text><text x="528.3333333333333" y="338" text-anchor="middle">question</text>
+<circle cx="505.3333333333333" cy="218.7012987012987" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="512.3333333333333" cy="249.0909090909091" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="519.3333333333333" cy="134.2857142857143" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="526.3333333333333" cy="241.21212121212122" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="533.3333333333333" cy="176.49350649350652" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="540.3333333333333" cy="208.5714285714286" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="547.3333333333333" cy="138.50649350649354" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="554.3333333333333" cy="214.4805194805195" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="511.3333333333333" cy="184.93506493506496" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="518.3333333333333" cy="162.42424242424244" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<rect x="596.6666666666666" y="150.50640917524038" width="70" height="169.49359082475962" fill="#2e75b6" opacity="0.85"/><text x="631.6666666666666" y="296" text-anchor="middle" font-weight="bold" fill="white">5.02x</text><text x="631.6666666666666" y="338" text-anchor="middle">summarise</text>
+<circle cx="608.6666666666666" cy="197.92207792207796" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="615.6666666666666" cy="104.539270253556" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="622.6666666666666" cy="151.1688311688312" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="629.6666666666666" cy="151.1688311688312" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="636.6666666666666" cy="148.35497835497839" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="643.6666666666666" cy="142.72727272727275" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="650.6666666666666" cy="181.5584415584416" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<circle cx="657.6666666666666" cy="126.61157024793388" r="3" fill="#f39c12" stroke="#7f4f00"/>
+<line x1="60" x2="700" y1="286.23376623376623" y2="286.23376623376623" stroke="#c0392b" stroke-width="2" stroke-dasharray="6,4"/><text x="64" y="281.23376623376623" fill="#c0392b" font-weight="bold">parity 1.0x</text>
+<text x="60" y="370" fill="#555">Bars: category mean. Dots: individual pairs. Net = after removing the fixed template/system-prompt tokens.</text></svg>

@@ -1,0 +1,200 @@
+id,category,language,prompt,output,input_tokens,output_tokens,net_input_tokens,cost_usd,latency_s,truncated
+1,question,en,What is the capital of Japan?,The capital of Japan is Tokyo.,29,8,7,9.149999999999999e-06,1.279,False
+1,question,bn,জাপানের রাজধানী কী?,জাপানের রাজধানী টাকোয়া।,43,28,21,2.3250000000000003e-05,4.355,False
+2,question,en,How many days are there in a leap year?,There are 366 days in a leap year.,32,13,10,1.26e-05,2.868,False
+2,question,bn,অধিবর্ষে কত দিন থাকে?,অধিবর্ষে 366 দিন থাকে।,43,23,21,2.0249999999999998e-05,4.997,False
+3,question,en,Who wrote the play Romeo and Juliet?,William Shakespeare wrote the play Romeo and Juliet.,30,10,8,1.0500000000000001e-05,2.277,False
+3,question,bn,রোমিও অ্যান্ড জুলিয়েট নাটকটি কে লিখেছেন?,রোমিও অ্যান্ড জুলিয়েট নাটকটি জোশেফাইন শেপার্ড নেপোলিয়ন বই লিখেছেন। কিন্তু এটি শেকসপিয়ারের অ্যাপারেন্ট কপি নাটক। শেকসপিয়ারের স্বতন্ত্র লেখা বিশ্বাস করা হয় না।,66,173,44,0.0001137,29.314,False
+4,question,en,Why is the sky blue?,"The sky appears blue because the Earth's atmosphere scatters short-wavelength light more than long-wavelength light, a phenomenon known as Rayleigh scattering. Blue light is scattered in all directions by the gases and particles in the atmosphere, making the sky blue during the day.",28,55,6,3.72e-05,9.206,False
+4,question,bn,আকাশ নীল কেন?,আকাশ নীল দেখায় কারণ আলোক বিভাজনের ফলে ছোট ছোট অণু বা পারমাণবিক অণু এর কারণে লাল ও কালো আলো অধিকাংশই সরিয়ে দেওয়া হয় এবং ক্লার্ক আলো যা নীল রঞ্জে আছে প্রতিফলিত হয়।,36,184,14,0.00011579999999999998,29.655,False
+5,question,en,Which is the largest ocean on Earth?,The largest ocean on Earth is the Pacific Ocean.,30,11,8,1.1099999999999999e-05,2.399,False
+5,question,bn,পৃথিবীর বৃহত্তম মহাসাগর কোনটি?,"পৃথিবীর বৃহত্তম মহাসাগর অস্ট্রেলিয়া, ইন্ডিয়া এবং নিউজিল্যান্ড দ্বারা ঘিরিত অস্ট্রেলিয়ান মহাসাগর। কিন্তু যদি পৃথিবীর মহাসাগরগুলোকে পৃথকভাবে ধারণা করা হয়, তাহলে অক্সিস্টেন্ট পোন্টিফিক",56,200,34,0.0001284,33.392,True
+6,question,en,What is the boiling point of water in Celsius?,The boiling point of water in Celsius is 100 degrees.,32,15,10,1.38e-05,3.039,False
+6,question,bn,সেলসিয়াসে পানির স্ফুটনাঙ্ক কত?,পানির স্ফুটনাঙ্ক 100 সেলসিয়াস তাপমাত্রায় 1.000 হয়ে 99.70448 এর মানে পরিবর্তিত হয়।,55,91,33,6.285e-05,15.876,False
+7,question,en,What language is mainly spoken in Brazil?,Portuguese is the main language spoken in Brazil.,30,12,8,1.17e-05,2.516,False
+7,question,bn,ব্রাজিলে প্রধানত কোন ভাষায় কথা বলা হয়?,ব্রাজিলে প্রধানত পোরুজোনীয় ভাষা বলা হয়।,65,48,43,3.855e-05,9.865,False
+8,question,en,How many legs does a spider have?,A spider has 8 legs.,30,8,8,9.299999999999999e-06,2.004,False
+8,question,bn,মাকড়সার কয়টি পা থাকে?,মাকড়সার পা 6টি থাকে।,47,23,25,2.085e-05,5.242,False
+9,question,en,What is the longest river in Bangladesh?,"The longest river in Bangladesh is the Padma (Ganges), which is about 718 km long within the country.",30,27,8,2.0700000000000002e-05,4.886,False
+9,question,bn,বাংলাদেশের দীর্ঘতম নদী কোনটি?,বাংলাদেশের দীর্ঘতম নদী হল �গanges (গঙ্গা).,54,38,32,3.0900000000000006e-05,7.631,False
+10,question,en,What does a thermometer measure?,A thermometer measures temperature.,28,6,6,7.8e-06,1.605,False
+10,question,bn,থার্মোমিটার কী পরিমাপ করে?,থার্মোমিটার তাপমাত্রা পরিমাপ করে।,50,35,28,2.8499999999999998e-05,7.168,False
+11,instruction,en,List three fruits that are rich in vitamin C.,"Oranges, strawberries, and kiwi.",32,10,10,1.08e-05,2.618,False
+11,instruction,bn,ভিটামিন সি সমৃদ্ধ তিনটি ফলের নাম লেখো।,"আম, কুকুরুট, কেনার বড়ো ফল",62,32,40,2.8499999999999998e-05,7.257,False
+12,instruction,en,Write one sentence about the rainy season.,"The rainy season brings abundant precipitation, often causing rivers to swell and fostering lush vegetation in tropical climates.",30,21,8,1.71e-05,4.087,False
+12,instruction,bn,বর্ষাকাল সম্পর্কে একটি বাক্য লেখো।,বর্ষাকাল হল পৃথিবীর অধিকাংশ অঞ্চলে পুষ্টি পায় এবং জীবনযাপনের জন্য অত্যন্ত গুরুত্বপূর্ণ।,57,99,35,6.795e-05,17.135,False
+13,instruction,en,Give two tips for saving electricity at home.,"1. Use LED bulbs: Replace incandescent and CFL bulbs with energy-efficient LED bulbs.
+2. Unplug electronics: Turn off and unplug devices when not in use to avoid standby power consumption.",31,42,9,2.985e-05,7.301,False
+13,instruction,bn,বাড়িতে বিদ্যুৎ সাশ্রয়ের দুটি পরামর্শ দাও।,"1. বিদ্যুৎ সাশ্রয়ে ব্যবহৃত বৈদ্যুতিক উপকরণগুলোকে চেক করুন যে কোন ব্যবধান বা ব্যবধানের বাহিত কিছু নেই।
+2. সাশ্রয়ের প্রবাহ সুরক্ষা বৈদ্যুতিক বৈশিষ্ট্যগুলো চেক করুন এবং আপনার বাড়ির",69,200,47,0.00013035,33.45,True
+14,instruction,en,"Translate ""good morning"" into French.",Bonjour le matin (or simply Bonjour),30,11,8,1.1099999999999999e-05,2.563,False
+14,instruction,bn,"ফরাসি ভাষায় ""good morning"" কথাটি অনুবাদ করো।","""good morning"" ফরাসি ভাষায় ""bonjour"" হিসাবে অনুবাদ করা যায়, কিন্তু সকালের স্বাগত বলতে ব্যবহৃত সাধারণভাবে ""bonjour"" বা ""bonne matinée"" বলা হয়।",59,120,37,8.085e-05,20.652,False
+15,instruction,en,Suggest a name for a small bookshop.,Book Haven,32,3,10,6.5999999999999995e-06,1.373,False
+15,instruction,bn,একটি ছোট বইয়ের দোকানের জন্য একটি নাম প্রস্তাব করো।,"""ছোট কবিতা বইয়ের দোকান: শব্দের ছোট বাণিজ্য""",77,49,55,4.095e-05,10.843,False
+16,instruction,en,Write a short thank-you note to a teacher.,"Dear [Teacher's Name],
+
+Thank you for your guidance and support this year. Your dedication truly made a difference.
+
+Warm regards,
+[Your Name]",32,31,10,2.34e-05,5.663,False
+16,instruction,bn,একজন শিক্ষকের জন্য একটি ছোট ধন্যবাদ বার্তা লেখো।,"প্রিয় [শিক্ষকের নাম],
+
+আপনার প্রশিক্ষণ ও শিক্ষার জন্য ধন্যবাদ। আপনার প্রতিটি শব্দ এবং কর্মের মাধ্যমে আমরা বড় হচ্ছি।
+
+ধন্যবাদ,
+[আপনার নাম]",72,137,50,9.300000000000001e-05,24.362,False
+17,instruction,en,Name four colours of the rainbow.,"Red, orange, yellow, and green.",29,10,7,1.0350000000000001e-05,2.187,False
+17,instruction,bn,রংধনুর চারটি রঙের নাম বলো।,"চারটি রঙের নাম: লাল, কালো, সবুজ, কালো। (যেহেতু আপনি কালো দুইবার লিখেছেন, তাই একটি অনুমান করে দিচ্ছি একই রঙটি বাদ দেওয়া হবে)",51,132,29,8.685e-05,22.16,False
+18,instruction,en,Describe a cat in one sentence.,"A cat is a small, typically furry, carnivorous mammal known for its agility and independent nature.",29,22,7,1.755e-05,4.071,False
+18,instruction,bn,এক বাক্যে একটি বিড়ালের বর্ণনা দাও।,"বিড়াল হল একটি ক্ষুদ্র পাখি, কালো বা কালা-সাদা রঙের, সামান্য বুকের সাথে লম্বা পায়ের মালা রয়েছে।",58,104,36,7.11e-05,18.04,False
+19,explanation,en,Explain photosynthesis in simple words.,"Photosynthesis is how plants make their own food using sunlight. They take in sunlight, water, and carbon dioxide to produce oxygen and glucose (food for energy).",30,33,8,2.43e-05,5.88,False
+19,explanation,bn,সহজ ভাষায় সালোকসংশ্লেষণ ব্যাখ্যা করো।,"সালোকসংশ্লেষণ হল দুটি বা ততোধিক বিষয়কে একত্রে বর্ণনা করা। যেমন, আমরা একটি বাড়ির বাইরে এবং ভিতরের দৃশ্য একসাথে বলতে পারি। এটি সম্পর্ক তৈরি করে এবং ব্যাখ্যা সহজ করে।",64,176,42,0.0001152,29.602,False
+20,explanation,en,Briefly explain what inflation means.,"Inflation refers to the increase in the general price level of goods and services in an economy over time, reducing the purchasing power of a currency.",29,30,7,2.235e-05,5.329,False
+20,explanation,bn,"মুদ্রাস্ফীতি মানে কী, সংক্ষেপে ব্যাখ্যা করো।","মুদ্রাস্ফীতি হল কোনো ব্যক্তি বা প্রতিষ্ঠানের মুদ্রাযুক্ত পণ্য বা হিসাবের স্ফীতি যা বিক্রয় করে অর্জিত করা পরিমাণ। সংক্ষেপে বললে, এটি মুদ্রাযুক্ত পণ্যের বিক্রয়ের ফলাফল।",71,181,49,0.00011925,30.547,False
+21,explanation,en,Explain why we need to sleep.,"Sleep is essential for physical restoration, memory consolidation, emotional regulation, and overall health. It allows the body to repair and rejuvenate, supports brain function, and helps maintain a healthy immune system.",30,40,8,2.85e-05,6.816,False
+21,explanation,bn,আমাদের কেন ঘুমানো প্রয়োজন তা ব্যাখ্যা করো।,ঘুমানো প্রয়োজন কারণ আমাদের দেহ এবং মозেল থেকে শক্তি পুনরুদ্ধার করতে হয়। ঘুম দিয়ে আমাদের সমস্ত বৈজ্ঞানিক প্রক্রিয়া সম্পূর্ণ হয়ে যায় এবং স্বাস্থ্যকর অবস্থায় পৌঁছতে সাহায্য করে।,70,200,48,0.0001305,33.728,True
+22,explanation,en,What is the difference between weather and climate?,"Weather refers to short-term atmospheric conditions in a specific location, changing from day to day. Climate is the long-term average of weather patterns in an area, typically observed over 30 years or more.",31,42,9,2.985e-05,7.418,False
+22,explanation,bn,আবহাওয়া ও জলবায়ুর মধ্যে পার্থক্য কী?,"আবহাওয়া হল একটি সময়সীমান্ত বা দিনের ভিত্তিতে বর্ণিত জলবায়ু অবস্থা, যেমন তাপমাত্রা, বায়ুবহিত উপাদান, বায়ুবহন বেগ। জলবায়ু হল একটি অধিবেশন যা কিছু দিন থেকে কিছু মাস থেকে বা কিছু বছর থ",64,200,42,0.0001296,33.717,True
+23,explanation,en,Explain how a vaccine protects the body.,"A vaccine introduces a harmless version of a pathogen or its components to the body, stimulating the immune system to produce a response. This primes the immune system to recognize and fight the actual pathogen more effectively if encountered later, providing protection without causing the disease.",31,53,9,3.645e-05,8.849,False
+23,explanation,bn,টিকা কীভাবে শরীরকে সুরক্ষা দেয় তা ব্যাখ্যা করো।,টিকা শরীরকে সুরক্ষা দেয় কারণ তিনি অক্সিডেন্টাল ইম্যুনিটি বা অর্থাৎ অন্য বস্তুর অবকাঠামো সম্পর্কে জানতে সাহায্য করে। টিকায় দিয়ে দেওয়া ব্যাকটেরিয়া বা ব্যাসিস্টার প্রতি শরীরের অ্যান্টিজেন,75,200,53,0.00013125,34.209,True
+24,explanation,en,Briefly explain what a computer virus is.,"A computer virus is a malicious software program designed to replicate itself and spread to other computers by altering code. It can harm computer operations, steal data, or perform other malicious actions.",31,37,9,2.6850000000000002e-05,6.35,False
+24,explanation,bn,"কম্পিউটার ভাইরাস কী, সংক্ষেপে ব্যাখ্যা করো।",কম্পিউটার ভাইরাস হল একটি প্রোগ্রাম যা অন্যান্য প্রোগ্রামে প্রবেশ করে এবং তাদের অনুসরণ করে তাদের কাজে ব্যবহার করে। এটি কম্পিউটারের সিস্টেম ফাইল বা ডেটা থেকে মুছে ফেলতে বা নষ্ট করতে পারে।,68,191,46,0.0001248,32.06,False
+25,explanation,en,Explain why ice floats on water.,"Ice floats on water because it is less dense than liquid water. When water freezes, its molecules arrange into a crystalline structure that takes up more space, reducing its density. Since ice is less dense than liquid water, it floats.",30,48,8,3.3299999999999996e-05,8.153,False
+25,explanation,bn,বরফ কেন পানিতে ভাসে তা ব্যাখ্যা করো।,বরফ পানিতে ভাসে কারণ বরফের আর্থিক উপাদানের কণার দিকে বিকশিত স্থানান্তরণ বা গ্লাইসিন হয়। এটি বরফের কণার বাইরে পানির কণা তৈরি করে যা বরফকে উঁচু করে তাই এটি পানিতে ভাসে।,59,172,37,0.00011205,28.589,False
+26,explanation,en,Explain to a child what an email is.,"An email is like sending a message to a friend, but instead of using paper and a pen, you use a computer or phone. You write your words in a box, choose who to send it to, and then hit a button to send it. The message travels through the internet, which is like a big invisible network, and reaches the friend's computer or phone. They can then read your message and write back to you!",32,88,10,5.76e-05,14.39,False
+26,explanation,bn,একটি শিশুকে ইমেইল কী তা বুঝিয়ে বলো।,ইমেইল হল একটি প্রযুক্তি যা আমাদের ব্যক্তিগত বা কোম্পানির সাথে অন্য লোকদের মধ্যে লিখে দেওয়া বা পাওয়া মেসেজ। শিশুকে বলতে পারি যে ইমেইল একটি বাক্য বা বাক্যাংশ লিখে দেওয়া যায় যা কেউ অন্য কেউ দ,64,200,42,0.0001296,33.439,True
+27,arithmetic,en,What is 15 plus 27?,42,32,3,10,6.5999999999999995e-06,1.252,False
+27,arithmetic,bn,১৫ যোগ ২৭ কত?,15 + 27 = 42,40,11,18,1.26e-05,2.98,False
+28,arithmetic,en,What is 144 divided by 12?,12.,34,4,12,7.499999999999999e-06,1.554,False
+28,arithmetic,bn,১৪৪ কে ১২ দিয়ে ভাগ করলে কত হয়?,144 ÷ 12 = 12,61,13,39,1.695e-05,4.252,False
+29,arithmetic,en,"If a pen costs 12 taka, how much do 5 pens cost?",5 pens cost 60 taka.,40,10,18,1.2e-05,2.888,False
+29,arithmetic,bn,একটি কলমের দাম ১২ টাকা হলে ৫টি কলমের দাম কত?,৫টি কলমের দাম ৬০ টাকা।,69,26,47,2.595e-05,6.657,False
+30,arithmetic,en,What is 25 percent of 200?,50,34,3,12,6.899999999999999e-06,1.4,False
+30,arithmetic,bn,২০০-এর ২৫ শতাংশ কত?,200-এর 25% হল 50।,46,18,24,1.7699999999999997e-05,4.256,False
+31,arithmetic,en,A train travels 60 km in one hour. How far does it travel in 3 hours?,The train travels 180 km in 3 hours.,43,14,21,1.4850000000000002e-05,3.479,False
+31,arithmetic,bn,একটি ট্রেন এক ঘণ্টায় ৬০ কিমি যায়। ৩ ঘণ্টায় এটি কত দূর যাবে?,3 ঘণ্টায় ট্রেন যাবে 180 কিমি।,91,32,69,3.285e-05,8.821,False
+32,arithmetic,en,What is 9 times 8?,72,30,3,8,6.3e-06,1.119,False
+32,arithmetic,bn,৯ গুণ ৮ কত?,৯ × ৮ = ৭২,36,13,14,1.3199999999999999e-05,3.142,False
+33,arithmetic,en,Rahim had 50 taka and spent 18 taka. How much money does he have left?,Rahim has 32 taka left.,47,12,25,1.4249999999999999e-05,3.414,False
+33,arithmetic,bn,রহিমের কাছে ৫০ টাকা ছিল এবং সে ১৮ টাকা খরচ করল। তার কাছে আর কত টাকা আছে?,রহিমের কাছে বাকি টাকা ৩২ টাকা।,99,33,77,3.465e-05,9.325,False
+34,arithmetic,en,What is the square root of 81?,The square root of 81 is 9.,32,12,10,1.2e-05,2.709,False
+34,arithmetic,bn,৮১-এর বর্গমূল কত?,81-এর বর্গমূল 9।,42,18,20,1.71e-05,4.108,False
+35,summarise,en,"Summarise in a few words: ""The school will remain closed on Monday because of heavy rain and flooding in the area.""",School closed Monday due to heavy rain and flooding.,48,11,26,1.38e-05,3.395,False
+35,summarise,bn,"কয়েকটি শব্দে সারাংশ লেখো: ""এলাকায় ভারী বৃষ্টি ও বন্যার কারণে সোমবার স্কুল বন্ধ থাকবে।""",সোমবার স্কুল বন্ধ করা হবে বৃষ্টি ও বন্যার কারণে।,116,52,94,4.86e-05,12.957,False
+36,summarise,en,"Summarise: ""Regular exercise improves heart health, reduces stress and helps people sleep better at night.""","Regular exercise enhances heart health, reduces stress, and improves sleep quality.",43,15,21,1.545e-05,3.568,False
+36,summarise,bn,"সারাংশ লেখো: ""নিয়মিত ব্যায়াম হৃদ্‌যন্ত্রের স্বাস্থ্য ভালো রাখে, মানসিক চাপ কমায় এবং মানুষকে রাতে ভালো ঘুমাতে সাহায্য করে।""","নিয়মিত ব্যায়াম হৃদয়ের স্বাস্থ্য বজায় রাখে, মানসিক চাপ কমায় এবং শুয়ে পড়ে ঘুমাতে সাহায্য করে।",156,110,134,8.94e-05,24.3,False
+37,summarise,en,"Summarise in one line: ""The new bridge reduced travel time between the two cities from three hours to forty minutes.""",The new bridge slashed travel time between the two cities from three hours to forty minutes.,47,18,25,1.7849999999999997e-05,4.15,False
+37,summarise,bn,"এক লাইনে সারাংশ লেখো: ""নতুন সেতুটি দুই শহরের মধ্যে যাতায়াতের সময় তিন ঘণ্টা থেকে কমিয়ে চল্লিশ মিনিটে নামিয়ে এনেছে।""",নতুন সেতু যাতায়াতের সময় হ্রাস কর্মে নামিয়েছে।,147,54,125,5.445e-05,15.236,False
+38,summarise,en,"Summarise: ""Farmers are using mobile phones to check crop prices, weather forecasts and advice from experts.""","Farmers use mobile phones to check crop prices, weather forecasts, and expert advice.",45,18,23,1.755e-05,4.109,False
+38,summarise,bn,"সারাংশ লেখো: ""কৃষকেরা ফসলের দাম, আবহাওয়ার পূর্বাভাস এবং বিশেষজ্ঞদের পরামর্শ জানতে মোবাইল ফোন ব্যবহার করছেন।""","কৃষকরা ফসলের দাম, আবহাওয়ার পূর্বাভাস এবং বিশেষজ্ঞদের পরামর্শ সংগ্রহ করার জন্য মোবাইল ফোন ব্যবহার করছেন।",137,112,115,8.775e-05,24.246,False
+39,summarise,en,"Give a short summary: ""The library has added two thousand new books and will now stay open until nine at night.""","The library has expanded its collection by 2,000 new books and extended its operating hours to 9 PM.",46,26,24,2.2499999999999998e-05,5.392,False
+39,summarise,bn,"সংক্ষিপ্ত সারাংশ দাও: ""গ্রন্থাগারে দুই হাজার নতুন বই যোগ করা হয়েছে এবং এখন থেকে এটি রাত নয়টা পর্যন্ত খোলা থাকবে।""",গ্রন্থাগারে ২০০০ নতুন বইয়ের যোগ করা হয়েছে এবং এখন থেকে রাত ৯টা পর্যন্ত খোলা থাকবে।,144,96,122,7.92e-05,21.64,False
+40,summarise,en,"Summarise: ""Drinking enough water keeps the body cool, helps digestion and prevents headaches.""","Drinking enough water helps cool the body, aids digestion, and prevents headaches.",42,17,20,1.6499999999999998e-05,3.721,False
+40,summarise,bn,"সারাংশ লেখো: ""পর্যাপ্ত পানি পান করলে শরীর ঠান্ডা থাকে, হজমে সাহায্য হয় এবং মাথাব্যথা প্রতিরোধ হয়।""","পর্যাপ্ত পানি পান করলে শরীর ঠান্ডা থাকে, হজম সুবিধাজনক হয় এবং মাথাব্যথা থাকে না।",127,86,105,7.065000000000001e-05,18.909,False
+41,summarise,en,"Summarise in a few words: ""The cricket match was stopped twice because of rain, but the home team still won by five wickets.""","Cricket match delayed by rain, home team wins by five wickets.",52,16,30,1.74e-05,3.992,False
+41,summarise,bn,"কয়েকটি শব্দে সারাংশ লেখো: ""বৃষ্টির কারণে ক্রিকেট ম্যাচটি দুবার থামানো হয়েছিল, তবুও স্বাগতিক দল পাঁচ উইকেটে জিতেছে।""",বৃষ্টি কারণে থামানো হলেও স্বাগতিক দল জিতেছে পাঁচ উইকেটে।,145,59,123,5.715e-05,14.396,False
+42,summarise,en,"Summarise: ""Online banking lets customers pay bills, transfer money and check balances without visiting a branch.""","Online banking enables customers to pay bills, transfer money, and check balances remotely, without needing to visit a physical branch.",44,25,22,2.16e-05,5.06,False
+42,summarise,bn,"সারাংশ লেখো: ""অনলাইন ব্যাংকিংয়ের মাধ্যমে গ্রাহকেরা শাখায় না গিয়েই বিল পরিশোধ, টাকা পাঠানো এবং ব্যালেন্স দেখতে পারেন।""","অনলাইন ব্যাংকিংয়ের মাধ্যমে গ্রাহকরা শাখায় যাওয়া বিনা পরিশোধ, টাকা পাঠানো এবং ব্যালেন্স দেখতে পারেন।",148,109,126,8.759999999999999e-05,23.931,False
+43,long,en,My grandmother lives in a small village near a river. Every winter we visit her and stay for a week. She makes rice cakes and tells us old stories in the evening. This year I want to bring her a warm shawl. What else could I bring that she would enjoy?,"You could bring her handcrafted sweets or local treats from your area, a book of stories or poems, or some herbal teas. These gifts are likely to be appreciated and enjoyed.",79,37,57,3.405e-05,9.06,False
+43,long,bn,আমার দাদি একটি নদীর কাছে ছোট একটি গ্রামে থাকেন। প্রতি শীতে আমরা তাঁর কাছে যাই এবং এক সপ্তাহ থাকি। তিনি পিঠা বানান এবং সন্ধ্যায় আমাদের পুরোনো গল্প শোনান। এ বছর আমি তাঁর জন্য একটি গরম শাল নিতে চাই। তিনি পছন্দ করবেন এমন আর কী নিতে পারি?,"আপনার দাদির পছন্দ করে একটি গরম শাল নিতে পারেন যেটি তাঁর পিঠের জন্য উষ্ণ এবং সুস্থ হয়, যেমন পর্বতীয় শাল, যা সুস্থ পিঠের জন্য উপযুক্ত। আরও একটি ধারণা হতে পারে তিনি পছন্দ করবেন একটি শাল যা তাঁর",267,200,245,0.00016005000000000001,45.809,True
+44,long,en,"Our company wants to reduce paper use in the office. Right now every report is printed, signed and stored in a cabinet. Many employees already have laptops and phones. Suggest three practical steps to move to digital documents, and mention one risk we should be careful about.","Three practical steps to move to digital documents are:
+1. Implement a document management system (DMS) to store and share files securely.
+2. Train employees on digital signing tools to replace physical signatures.
+3. Use cloud storage services for easy access and collaboration.
+
+One risk to be careful about is ensuring data security and privacy, as digital documents can be more vulnerable to breaches.",76,77,54,5.76e-05,14.98,False
+44,long,bn,"আমাদের প্রতিষ্ঠান অফিসে কাগজের ব্যবহার কমাতে চায়। এখন প্রতিটি প্রতিবেদন ছাপানো হয়, সই করা হয় এবং আলমারিতে রাখা হয়। অনেক কর্মীর ইতিমধ্যে ল্যাপটপ ও ফোন আছে। ডিজিটাল নথিতে যাওয়ার জন্য তিনটি বাস্তবসম্মত পদক্ষেপ প্রস্তাব করো এবং এমন একটি ঝুঁকির কথা বলো যে বিষয়ে আমাদের সতর্ক থাকা উচিত।","পদক্ষেপগুলি:
+1. প্রতিবেদন ডিজিটাল ফরমে ডিঙ্কার করা এবং কর্মীদের স্বয়ংক্রিয় সংরক্ষণ অনুমোদন করা।
+2. কর্মীদের কাজের প্রতিবেদন ডিজিটাল মাধ্যমে প্রেরণ করার প্রথা অনুসরণ করতে বাধ্য করা।
+3. কাগজ",323,200,301,0.00016845,48.137,True
+45,long,en,"I am a first-year university student. I find it hard to manage my time between classes, part-time work and studying at home. I often stay up late and feel tired in the morning. Can you give me a simple daily plan that could help?","Certainly! Here’s a simple daily plan to help you manage your time better:
+
+1. **Wake Up Early (6 AM)**
+   - Get up at the same time every day to establish a routine.
+   - Have a light breakfast.
+
+2. **Morning Routine (6 AM - 7 AM)**
+   - Quick shower and get dressed.
+   - Review your schedule and plan the day.
+
+3. **Commute or Exercise (7 AM - 8 AM)**
+   - If you have a commute, use it to listen to educational podcasts or music.
+   - If you exercise, this is a good time.
+
+4. **Classes (8 AM - 4 PM)**
+   - Attend all your classes on time.
+   - Take good notes and review them after class.
+
+5. **Lunch Break (12 PM - 1 PM)**
+   - Eat a healthy meal and take a short break.
+
+6. **Study and Work (1 PM - 6",73,200,51,0.00013095,34.11,True
+45,long,bn,"আমি বিশ্ববিদ্যালয়ের প্রথম বর্ষের শিক্ষার্থী। ক্লাস, খণ্ডকালীন কাজ আর বাড়িতে পড়াশোনার মধ্যে সময় ভাগ করতে আমার কষ্ট হয়। আমি প্রায়ই অনেক রাত পর্যন্ত জেগে থাকি এবং সকালে ক্লান্ত লাগে। তুমি কি আমাকে একটি সহজ দৈনিক পরিকল্পনা দিতে পারো যা সাহায্য করতে পারে?","আপনার সমস্যার জন্য ক্ষমা প্রার্থনা করি। একটি সহজ পরিকল্পনা হলো:
+
+1. সুন্দর স্থানে শিক্ষার্থী করুন।
+2. প্রতিদিন নিয়মিত স্নান করুন।
+3. প্রাতঃকালে সুরক্ষিত শুয়ে পড়ুন।
+4. প্রতিদিন নিয়মিত খ",291,200,269,0.00016365,46.612,True
+46,long,en,"A small shop sells tea for 10 taka a cup. On Monday it sold 120 cups and on Tuesday it sold 150 cups. The owner spends 900 taka each day on milk, sugar and tea leaves. How much profit did the shop make over the two days? Show your working.","To calculate the profit, we first find the total revenue and then subtract the total expenses.
+
+**Revenue:**
+- Monday: 120 cups × 10 taka/cup = 1200 taka
+- Tuesday: 150 cups × 10 taka/cup = 1500 taka
+- Total Revenue = 1200 taka + 1500 taka = 2700 taka
+
+**Expenses:**
+- The shop spends 900 taka each day on ingredients.
+- Total Expenses = 900 taka/day × 2 days = 1800 taka
+
+**Profit:**
+- Total Profit = Total Revenue - Total Expenses
+- Total Profit = 2700 taka - 1800 taka = 900 taka
+
+The shop made a profit of 900 taka over the two",91,200,69,0.00013365,35.053,True
+46,long,bn,"একটি ছোট দোকান প্রতি কাপ চা ১০ টাকায় বিক্রি করে। সোমবার দোকানটি ১২০ কাপ এবং মঙ্গলবার ১৫০ কাপ চা বিক্রি করেছে। মালিক দুধ, চিনি ও চা-পাতার জন্য প্রতিদিন ৯০০ টাকা খরচ করেন। দুই দিনে দোকানটি কত টাকা লাভ করেছে? হিসাবটি দেখাও।","প্রথমে, দুই দিনে চা বিক্রি করে যেতে পারা টাকা হল:
+
+সোমবার: 120 কাপ × 10 টাকা/কাপ = 1200 টাকা
+মঙ্গলবার: 150 কাপ × 10 টাকা/কাপ = 1500 টাকা
+
+দুই দিনের মোট বিক্রি টাকা: 1200 + 1500 = 2700 টাকা
+
+পরে, দোকানের ম",263,200,241,0.00015945,44.992,True
+47,long,en,Climate change is causing higher sea levels and stronger storms. Farmland in the coastal areas of Bangladesh is already being damaged by salty water. Many families are moving to cities to find work. Explain in simple words two ways the government could help these families.,"Two ways the government could help:
+
+1. Build protective barriers: Constructing walls or barriers along the coast can protect farmland from saltwater intrusion and storm surges.
+2. Create job opportunities in cities: Invest in urban infrastructure and industries to provide more jobs, helping families stay in their communities or find better opportunities nearby.",72,66,50,5.04e-05,13.358,False
+47,long,bn,জলবায়ু পরিবর্তনের কারণে সমুদ্রপৃষ্ঠের উচ্চতা বাড়ছে এবং ঝড় আরও শক্তিশালী হচ্ছে। বাংলাদেশের উপকূলীয় এলাকার কৃষিজমি ইতিমধ্যে লবণাক্ত পানিতে ক্ষতিগ্রস্ত হচ্ছে। অনেক পরিবার কাজের খোঁজে শহরে চলে যাচ্ছে। সরকার এই পরিবারগুলোকে সাহায্য করতে পারে এমন দুটি উপায় সহজ ভাষায় ব্যাখ্যা করো।,"1. বৈদ্যুতিক শক্তি বিতরণ: সরকার বৈদ্যুতিক শক্তি সুবিধাগুলো প্রদান করে যা কৃষি কাজের জন্য প্রয়োজনীয় নয়। এটি পরিবারকে শহরে যাওয়ার দরকার থেকে মুক্ত করতে সাহায্য করতে পারে।
+
+2. শিক্ষার্থ",322,200,300,0.0001683,47.748,True
+48,long,en,"I want to start learning to cook. I have a small kitchen with one stove and a rice cooker. I like vegetables, eggs and lentils, but I do not eat beef. Suggest three easy dishes for a beginner and say which one I should try first.","Great to hear you're starting to cook! Given your preferences and kitchen setup, here are three easy dishes:
+
+1. **Stir-Fried Vegetables**: Perfect for a small kitchen as it only requires a single pan. You can use a variety of vegetables like bell peppers, broccoli, and carrots. This dish is versatile and can be seasoned with soy sauce, garlic, and ginger.
+
+2. **Egg Fried Rice**: Use your rice cooker to make the base and then stir-fry with eggs, vegetables, and soy sauce. It's comforting and can be customized with your favorite veggies.
+
+3. **Lentil Soup**: A hearty and nutritious option that can be made in a pot or slow cooker. It's easy to prepare and can be adjusted with various vegetables like tomatoes, carrots, and celery.
+
+**First Dish to Try: Stir-Fried Vegetables**
+
+This is a good starting point because it's simple, quick, and allows you to experiment with different vegetables. Enjoy your",76,200,54,0.0001314,34.246,True
+48,long,bn,"আমি রান্না শিখতে শুরু করতে চাই। আমার একটি ছোট রান্নাঘর আছে, তাতে একটি চুলা ও একটি রাইস কুকার আছে। আমি সবজি, ডিম আর ডাল পছন্দ করি, কিন্তু গরুর মাংস খাই না। একজন নতুন রাঁধুনির জন্য তিনটি সহজ পদ প্রস্তাব করো এবং কোনটি আমার প্রথমে চেষ্টা করা উচিত তা বলো।","তিনটি সহজ পদ হল:
+
+1. ডাল রান্না
+2. সবজি কুকুর করা
+3. ডিম কুকুরা
+
+প্রথমে ডাল রান্না চেষ্টা করা উচিত, কারণ এটি সহজ এবং গুরুত্বপূর্ণ নutritional সূচনা।",285,147,263,0.00013095,37.703,False
+49,long,en,"Read this short story and give it a title. A boy found a lost wallet on the bus. Inside were some money and an identity card. He took it to the address on the card, even though it was far from his home. The owner thanked him and offered a reward, but the boy refused it.","Title: ""A Long Journey of Honesty""",85,11,63,1.935e-05,5.088,False
+49,long,bn,"এই ছোট গল্পটি পড়ো এবং এর একটি শিরোনাম দাও। একটি ছেলে বাসে একটি হারানো মানিব্যাগ খুঁজে পেল। তার ভেতরে কিছু টাকা আর একটি পরিচয়পত্র ছিল। বাড়ি থেকে অনেক দূর হলেও সে কার্ডে লেখা ঠিকানায় মানিব্যাগটি নিয়ে গেল। মালিক তাকে ধন্যবাদ দিলেন এবং পুরস্কার দিতে চাইলেন, কিন্তু ছেলেটি তা নিল না।","শিরোনাম: ""মানিব্যাগের পথ""
+
+简体中文摘要：这个短故事的标题可以是“钱包里的路”。",322,43,300,7.41e-05,22.767,False
+50,long,en,Write a polite message to my neighbour. Their dog barks loudly every night after eleven o'clock. My children cannot sleep and have exams next week. I do not want to start an argument. Ask them kindly if they can keep the dog inside at night.,"Dear [Neighbor's Name],
+
+I hope this message finds you well. I wanted to discuss a matter that has been affecting my family, particularly my children who have exams next week. The barking of your dog after eleven o'clock has made it difficult for them to get a good night's rest. I wonder if it would be possible to keep the dog inside during the night hours. This would greatly help us and I appreciate your understanding and cooperation.
+
+Warm regards,
+
+[Your Name]",74,98,52,6.99e-05,18.395,False
+50,long,bn,"আমার প্রতিবেশীর কাছে একটি ভদ্র বার্তা লেখো। তাদের কুকুরটি প্রতি রাতে এগারোটার পরে জোরে ঘেউ ঘেউ করে। আমার সন্তানেরা ঘুমাতে পারে না এবং আগামী সপ্তাহে তাদের পরীক্ষা। আমি কোনো ঝগড়া শুরু করতে চাই না। রাতে কুকুরটিকে ঘরের ভেতরে রাখা সম্ভব কিনা, তা তাদের বিনীতভাবে জিজ্ঞেস করো।","প্রতিবেশী স্যার/মেম,
+
+আপনার কুকুরের ঘেউ ঘেউ শব্দ আমার সন্তানদের শুয়োর থেকে বেরিয়ে আসছে এবং তারা ঘুমাতে পারছে না। আগামী সপ্তাহে তাদের পরীক্ষা আছে, তাই আমি আপনার কুকুরকে রাতে ঘরের ভেতরে রাখ",311,200,289,0.00016665,47.714,True

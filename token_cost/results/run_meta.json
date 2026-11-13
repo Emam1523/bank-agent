@@ -1,0 +1,33 @@
+{
+  "model": "qwen2.5:7b",
+  "system_prompt": "You are a helpful assistant. Answer briefly.",
+  "options": {
+    "temperature": 0,
+    "seed": 42,
+    "num_predict": 200,
+    "num_ctx": 4096,
+    "top_p": 0.9,
+    "top_k": 20
+  },
+  "template_overhead_tokens": 22,
+  "cache_checks": [
+    {
+      "prompt": "What is the capital of Japan?",
+      "first": 29,
+      "second": 29,
+      "cached": false
+    },
+    {
+      "prompt": "জাপানের রাজধানী কী?",
+      "first": 43,
+      "second": 43,
+      "cached": false
+    }
+  ],
+  "prices_usd_per_million": {
+    "input": 0.15,
+    "output": 0.6
+  },
+  "run_seconds": 1438.6,
+  "finished_utc": "2026-11-13T12:56:52+00:00"
+}

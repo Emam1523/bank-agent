@@ -1,0 +1,51 @@
+id	category	english	bangla
+1	question	What is the capital of Japan?	জাপানের রাজধানী কী?
+2	question	How many days are there in a leap year?	অধিবর্ষে কত দিন থাকে?
+3	question	Who wrote the play Romeo and Juliet?	রোমিও অ্যান্ড জুলিয়েট নাটকটি কে লিখেছেন?
+4	question	Why is the sky blue?	আকাশ নীল কেন?
+5	question	Which is the largest ocean on Earth?	পৃথিবীর বৃহত্তম মহাসাগর কোনটি?
+6	question	What is the boiling point of water in Celsius?	সেলসিয়াসে পানির স্ফুটনাঙ্ক কত?
+7	question	What language is mainly spoken in Brazil?	ব্রাজিলে প্রধানত কোন ভাষায় কথা বলা হয়?
+8	question	How many legs does a spider have?	মাকড়সার কয়টি পা থাকে?
+9	question	What is the longest river in Bangladesh?	বাংলাদেশের দীর্ঘতম নদী কোনটি?
+10	question	What does a thermometer measure?	থার্মোমিটার কী পরিমাপ করে?
+11	instruction	List three fruits that are rich in vitamin C.	ভিটামিন সি সমৃদ্ধ তিনটি ফলের নাম লেখো।
+12	instruction	Write one sentence about the rainy season.	বর্ষাকাল সম্পর্কে একটি বাক্য লেখো।
+13	instruction	Give two tips for saving electricity at home.	বাড়িতে বিদ্যুৎ সাশ্রয়ের দুটি পরামর্শ দাও।
+14	instruction	"Translate ""good morning"" into French."	"ফরাসি ভাষায় ""good morning"" কথাটি অনুবাদ করো।"
+15	instruction	Suggest a name for a small bookshop.	একটি ছোট বইয়ের দোকানের জন্য একটি নাম প্রস্তাব করো।
+16	instruction	Write a short thank-you note to a teacher.	একজন শিক্ষকের জন্য একটি ছোট ধন্যবাদ বার্তা লেখো।
+17	instruction	Name four colours of the rainbow.	রংধনুর চারটি রঙের নাম বলো।
+18	instruction	Describe a cat in one sentence.	এক বাক্যে একটি বিড়ালের বর্ণনা দাও।
+19	explanation	Explain photosynthesis in simple words.	সহজ ভাষায় সালোকসংশ্লেষণ ব্যাখ্যা করো।
+20	explanation	Briefly explain what inflation means.	মুদ্রাস্ফীতি মানে কী, সংক্ষেপে ব্যাখ্যা করো।
+21	explanation	Explain why we need to sleep.	আমাদের কেন ঘুমানো প্রয়োজন তা ব্যাখ্যা করো।
+22	explanation	What is the difference between weather and climate?	আবহাওয়া ও জলবায়ুর মধ্যে পার্থক্য কী?
+23	explanation	Explain how a vaccine protects the body.	টিকা কীভাবে শরীরকে সুরক্ষা দেয় তা ব্যাখ্যা করো।
+24	explanation	Briefly explain what a computer virus is.	কম্পিউটার ভাইরাস কী, সংক্ষেপে ব্যাখ্যা করো।
+25	explanation	Explain why ice floats on water.	বরফ কেন পানিতে ভাসে তা ব্যাখ্যা করো।
+26	explanation	Explain to a child what an email is.	একটি শিশুকে ইমেইল কী তা বুঝিয়ে বলো।
+27	arithmetic	What is 15 plus 27?	১৫ যোগ ২৭ কত?
+28	arithmetic	What is 144 divided by 12?	১৪৪ কে ১২ দিয়ে ভাগ করলে কত হয়?
+29	arithmetic	If a pen costs 12 taka, how much do 5 pens cost?	একটি কলমের দাম ১২ টাকা হলে ৫টি কলমের দাম কত?
+30	arithmetic	What is 25 percent of 200?	২০০-এর ২৫ শতাংশ কত?
+31	arithmetic	A train travels 60 km in one hour. How far does it travel in 3 hours?	একটি ট্রেন এক ঘণ্টায় ৬০ কিমি যায়। ৩ ঘণ্টায় এটি কত দূর যাবে?
+32	arithmetic	What is 9 times 8?	৯ গুণ ৮ কত?
+33	arithmetic	Rahim had 50 taka and spent 18 taka. How much money does he have left?	রহিমের কাছে ৫০ টাকা ছিল এবং সে ১৮ টাকা খরচ করল। তার কাছে আর কত টাকা আছে?
+34	arithmetic	What is the square root of 81?	৮১-এর বর্গমূল কত?
+35	summarise	"Summarise in a few words: ""The school will remain closed on Monday because of heavy rain and flooding in the area."""	"কয়েকটি শব্দে সারাংশ লেখো: ""এলাকায় ভারী বৃষ্টি ও বন্যার কারণে সোমবার স্কুল বন্ধ থাকবে।"""
+36	summarise	"Summarise: ""Regular exercise improves heart health, reduces stress and helps people sleep better at night."""	"সারাংশ লেখো: ""নিয়মিত ব্যায়াম হৃদ্‌যন্ত্রের স্বাস্থ্য ভালো রাখে, মানসিক চাপ কমায় এবং মানুষকে রাতে ভালো ঘুমাতে সাহায্য করে।"""
+37	summarise	"Summarise in one line: ""The new bridge reduced travel time between the two cities from three hours to forty minutes."""	"এক লাইনে সারাংশ লেখো: ""নতুন সেতুটি দুই শহরের মধ্যে যাতায়াতের সময় তিন ঘণ্টা থেকে কমিয়ে চল্লিশ মিনিটে নামিয়ে এনেছে।"""
+38	summarise	"Summarise: ""Farmers are using mobile phones to check crop prices, weather forecasts and advice from experts."""	"সারাংশ লেখো: ""কৃষকেরা ফসলের দাম, আবহাওয়ার পূর্বাভাস এবং বিশেষজ্ঞদের পরামর্শ জানতে মোবাইল ফোন ব্যবহার করছেন।"""
+39	summarise	"Give a short summary: ""The library has added two thousand new books and will now stay open until nine at night."""	"সংক্ষিপ্ত সারাংশ দাও: ""গ্রন্থাগারে দুই হাজার নতুন বই যোগ করা হয়েছে এবং এখন থেকে এটি রাত নয়টা পর্যন্ত খোলা থাকবে।"""
+40	summarise	"Summarise: ""Drinking enough water keeps the body cool, helps digestion and prevents headaches."""	"সারাংশ লেখো: ""পর্যাপ্ত পানি পান করলে শরীর ঠান্ডা থাকে, হজমে সাহায্য হয় এবং মাথাব্যথা প্রতিরোধ হয়।"""
+41	summarise	"Summarise in a few words: ""The cricket match was stopped twice because of rain, but the home team still won by five wickets."""	"কয়েকটি শব্দে সারাংশ লেখো: ""বৃষ্টির কারণে ক্রিকেট ম্যাচটি দুবার থামানো হয়েছিল, তবুও স্বাগতিক দল পাঁচ উইকেটে জিতেছে।"""
+42	summarise	"Summarise: ""Online banking lets customers pay bills, transfer money and check balances without visiting a branch."""	"সারাংশ লেখো: ""অনলাইন ব্যাংকিংয়ের মাধ্যমে গ্রাহকেরা শাখায় না গিয়েই বিল পরিশোধ, টাকা পাঠানো এবং ব্যালেন্স দেখতে পারেন।"""
+43	long	My grandmother lives in a small village near a river. Every winter we visit her and stay for a week. She makes rice cakes and tells us old stories in the evening. This year I want to bring her a warm shawl. What else could I bring that she would enjoy?	আমার দাদি একটি নদীর কাছে ছোট একটি গ্রামে থাকেন। প্রতি শীতে আমরা তাঁর কাছে যাই এবং এক সপ্তাহ থাকি। তিনি পিঠা বানান এবং সন্ধ্যায় আমাদের পুরোনো গল্প শোনান। এ বছর আমি তাঁর জন্য একটি গরম শাল নিতে চাই। তিনি পছন্দ করবেন এমন আর কী নিতে পারি?
+44	long	Our company wants to reduce paper use in the office. Right now every report is printed, signed and stored in a cabinet. Many employees already have laptops and phones. Suggest three practical steps to move to digital documents, and mention one risk we should be careful about.	আমাদের প্রতিষ্ঠান অফিসে কাগজের ব্যবহার কমাতে চায়। এখন প্রতিটি প্রতিবেদন ছাপানো হয়, সই করা হয় এবং আলমারিতে রাখা হয়। অনেক কর্মীর ইতিমধ্যে ল্যাপটপ ও ফোন আছে। ডিজিটাল নথিতে যাওয়ার জন্য তিনটি বাস্তবসম্মত পদক্ষেপ প্রস্তাব করো এবং এমন একটি ঝুঁকির কথা বলো যে বিষয়ে আমাদের সতর্ক থাকা উচিত।
+45	long	I am a first-year university student. I find it hard to manage my time between classes, part-time work and studying at home. I often stay up late and feel tired in the morning. Can you give me a simple daily plan that could help?	আমি বিশ্ববিদ্যালয়ের প্রথম বর্ষের শিক্ষার্থী। ক্লাস, খণ্ডকালীন কাজ আর বাড়িতে পড়াশোনার মধ্যে সময় ভাগ করতে আমার কষ্ট হয়। আমি প্রায়ই অনেক রাত পর্যন্ত জেগে থাকি এবং সকালে ক্লান্ত লাগে। তুমি কি আমাকে একটি সহজ দৈনিক পরিকল্পনা দিতে পারো যা সাহায্য করতে পারে?
+46	long	A small shop sells tea for 10 taka a cup. On Monday it sold 120 cups and on Tuesday it sold 150 cups. The owner spends 900 taka each day on milk, sugar and tea leaves. How much profit did the shop make over the two days? Show your working.	একটি ছোট দোকান প্রতি কাপ চা ১০ টাকায় বিক্রি করে। সোমবার দোকানটি ১২০ কাপ এবং মঙ্গলবার ১৫০ কাপ চা বিক্রি করেছে। মালিক দুধ, চিনি ও চা-পাতার জন্য প্রতিদিন ৯০০ টাকা খরচ করেন। দুই দিনে দোকানটি কত টাকা লাভ করেছে? হিসাবটি দেখাও।
+47	long	Climate change is causing higher sea levels and stronger storms. Farmland in the coastal areas of Bangladesh is already being damaged by salty water. Many families are moving to cities to find work. Explain in simple words two ways the government could help these families.	জলবায়ু পরিবর্তনের কারণে সমুদ্রপৃষ্ঠের উচ্চতা বাড়ছে এবং ঝড় আরও শক্তিশালী হচ্ছে। বাংলাদেশের উপকূলীয় এলাকার কৃষিজমি ইতিমধ্যে লবণাক্ত পানিতে ক্ষতিগ্রস্ত হচ্ছে। অনেক পরিবার কাজের খোঁজে শহরে চলে যাচ্ছে। সরকার এই পরিবারগুলোকে সাহায্য করতে পারে এমন দুটি উপায় সহজ ভাষায় ব্যাখ্যা করো।
+48	long	I want to start learning to cook. I have a small kitchen with one stove and a rice cooker. I like vegetables, eggs and lentils, but I do not eat beef. Suggest three easy dishes for a beginner and say which one I should try first.	আমি রান্না শিখতে শুরু করতে চাই। আমার একটি ছোট রান্নাঘর আছে, তাতে একটি চুলা ও একটি রাইস কুকার আছে। আমি সবজি, ডিম আর ডাল পছন্দ করি, কিন্তু গরুর মাংস খাই না। একজন নতুন রাঁধুনির জন্য তিনটি সহজ পদ প্রস্তাব করো এবং কোনটি আমার প্রথমে চেষ্টা করা উচিত তা বলো।
+49	long	Read this short story and give it a title. A boy found a lost wallet on the bus. Inside were some money and an identity card. He took it to the address on the card, even though it was far from his home. The owner thanked him and offered a reward, but the boy refused it.	এই ছোট গল্পটি পড়ো এবং এর একটি শিরোনাম দাও। একটি ছেলে বাসে একটি হারানো মানিব্যাগ খুঁজে পেল। তার ভেতরে কিছু টাকা আর একটি পরিচয়পত্র ছিল। বাড়ি থেকে অনেক দূর হলেও সে কার্ডে লেখা ঠিকানায় মানিব্যাগটি নিয়ে গেল। মালিক তাকে ধন্যবাদ দিলেন এবং পুরস্কার দিতে চাইলেন, কিন্তু ছেলেটি তা নিল না।
+50	long	Write a polite message to my neighbour. Their dog barks loudly every night after eleven o'clock. My children cannot sleep and have exams next week. I do not want to start an argument. Ask them kindly if they can keep the dog inside at night.	আমার প্রতিবেশীর কাছে একটি ভদ্র বার্তা লেখো। তাদের কুকুরটি প্রতি রাতে এগারোটার পরে জোরে ঘেউ ঘেউ করে। আমার সন্তানেরা ঘুমাতে পারে না এবং আগামী সপ্তাহে তাদের পরীক্ষা। আমি কোনো ঝগড়া শুরু করতে চাই না। রাতে কুকুরটিকে ঘরের ভেতরে রাখা সম্ভব কিনা, তা তাদের বিনীতভাবে জিজ্ঞেস করো।

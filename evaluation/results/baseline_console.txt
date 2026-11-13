@@ -1,0 +1,81 @@
+﻿q01 run 1: PASS [ok] 20.51s 2359 tok - 'The database contains information about 350 bank branches.'
+q01 run 2: PASS [ok] 20.24s 2359 tok - 'The database contains information about 350 bank branches.'
+q01 run 3: PASS [ok] 20.06s 2359 tok - 'The database contains information about 350 bank branches.'
+q02 run 1: PASS [ok] 21.93s 2365 tok - 'There are 200 customer accounts in the database.'
+q02 run 2: PASS [ok] 21.5s 2365 tok - 'There are 200 customer accounts in the database.'
+q02 run 3: PASS [ok] 21.46s 2365 tok - 'There are 200 customer accounts in the database.'
+q03 run 1: PASS [ok] 25.04s 2396 tok - 'The number of bank branches with INACTIVE status is 35.'
+q03 run 2: PASS [ok] 23.57s 2396 tok - 'The number of bank branches with INACTIVE status is 35.'
+q03 run 3: PASS [ok] 24.34s 2396 tok - 'The number of bank branches with INACTIVE status is 35.'
+q04 run 1: PASS [ok] 29.22s 2436 tok - 'The total balance of all SALARY accounts is 54448421.86.'
+q04 run 2: PASS [ok] 27.64s 2436 tok - 'The total balance of all SALARY accounts is 54448421.86.'
+q04 run 3: PASS [ok] 27.37s 2436 tok - 'The total balance of all SALARY accounts is 54448421.86.'
+q05 run 1: PASS [ok] 40.8s 2553 tok - 'The total balance of all accounts held at BRAC Bank branches is 3,871,889.81.'
+q05 run 2: FAIL [step_cap] 174.45s 10285 tok - 'Stopped: too many steps without a final answer.'
+q05 run 3: PASS [ok] 34.19s 2553 tok - 'The total balance of all accounts held at BRAC Bank branches is 3,871,889.81.'
+q06 run 1: PASS [ok] 38.61s 2545 tok - 'There are 5 customer accounts belonging to branches in Dhaka district.'
+q06 run 2: PASS [ok] 36.79s 2546 tok - 'There are 5 customer accounts that belong to branches in Dhaka district.'
+q06 run 3: PASS [ok] 34.52s 2546 tok - 'There are 5 customer accounts that belong to branches in Dhaka district.'
+q07 run 1: PASS [ok] 46.28s 2668 tok - 'The total amount deposited into account AC-48848936 is 202774.75.'
+q07 run 2: PASS [ok] 43.17s 2663 tok - 'The total amount deposited into account AC-48848936 is 202774.75.'
+q07 run 3: PASS [ok] 42.83s 2663 tok - 'The total amount deposited into account AC-48848936 is 202774.75.'
+q08 run 1: PASS [ok] 24.43s 2385 tok - 'The district with the most bank branches is Tangail.'
+q08 run 2: PASS [ok] 22.18s 2385 tok - 'The district with the most bank branches is Tangail.'
+q08 run 3: PASS [ok] 21.65s 2385 tok - 'The district with the most bank branches is Tangail.'
+q09 run 1: PASS [ok] 32.06s 2476 tok - 'The account type with the highest total balance is FIXED_DEPOSIT, with a total balance of '
+q09 run 2: PASS [ok] 29.53s 2476 tok - 'The account type with the highest total balance is FIXED_DEPOSIT, with a total balance of '
+q09 run 3: PASS [ok] 30.4s 2476 tok - 'The account type with the highest total balance is FIXED_DEPOSIT, with a total balance of '
+q10 run 1: FAIL [ok] 31.17s 2489 tok - 'The bank with the most customer accounts is Pubali Bank PLC.'
+q10 run 2: PASS [ok] 33.96s 2532 tok - 'The bank with the most customer accounts is Eastern Bank PLC, which has 13 accounts.'
+q10 run 3: PASS [ok] 36.1s 2532 tok - 'The bank with the most customer accounts is Eastern Bank PLC, which has 13 accounts.'
+q11 run 1: FAIL [ok] 62.46s 3699 tok - 'The average account balance is 1,263,174.76, which is 25,163.50% above the minimum balance'
+q11 run 2: FAIL [ok] 59.16s 3709 tok - 'The average account balance is 1,263,174.76 BDT, which is 25,163.50% above the minimum bal'
+q11 run 3: FAIL [ok] 59.06s 3709 tok - 'The average account balance is 1,263,174.76 BDT, which is 25,163.50% above the minimum bal'
+q12 run 1: PASS [ok] 50.09s 2750 tok - 'The difference between total deposits and total withdrawals in 2025 was 26,493,929.77.'
+q12 run 2: FAIL [ok] 207.91s 6824 tok - 'The database cannot answer the question about the difference between total deposits and to'
+q12 run 3: FAIL [ok] 146.55s 6823 tok - 'The database cannot answer the question about the difference between total deposits and to'
+q13 run 1: FAIL [ok] 56.62s 3585 tok - 'The total deposits did not grow from 2024 to 2025, the growth percentage is 0.0%.'
+q13 run 2: FAIL [ok] 53.4s 3585 tok - 'The total deposits did not grow from 2024 to 2025; the percentage change is 0.0%.'
+q13 run 3: FAIL [ok] 53.53s 3585 tok - 'The total deposits did not grow from 2024 to 2025; the percentage change is 0.0%.'
+q14 run 1: PASS [ok] 76.88s 5186 tok - 'The percentage of all customer accounts that are SALARY accounts is 21.5%.'
+q14 run 2: PASS [ok] 75.27s 5186 tok - 'The percentage of all customer accounts that are SALARY accounts is 21.5%.'
+q14 run 3: PASS [ok] 75.25s 5186 tok - 'The percentage of all customer accounts that are SALARY accounts is 21.5%.'
+q15 run 1: PASS [ok] 44.8s 2693 tok - 'The total balance of FIXED_DEPOSIT accounts is $1,517,009.21 larger than the total balance'
+q15 run 2: PASS [ok] 41.99s 2693 tok - 'The total balance of FIXED_DEPOSIT accounts is $1,517,009.21 larger than the total balance'
+q15 run 3: PASS [ok] 42.9s 2693 tok - 'The total balance of FIXED_DEPOSIT accounts is $1,517,009.21 larger than the total balance'
+q16 run 1: PASS [ok] 34.15s 2545 tok - 'The ratio of ACTIVE branches to INACTIVE branches is 9.0.'
+q16 run 2: FAIL [ok] 28.61s 2500 tok - 'The ratio of ACTIVE branches to INACTIVE branches is 0.90.'
+q16 run 3: FAIL [ok] 28.89s 2500 tok - 'The ratio of ACTIVE branches to INACTIVE branches is 0.90.'
+q17 run 1: PASS [ok] 12.67s 1683 tok - 'The database cannot answer the question about the interest rate on Sonali Bank savings acc'
+q17 run 2: PASS [ok] 11.16s 1683 tok - 'The database cannot answer the question about the interest rate on Sonali Bank savings acc'
+q17 run 3: PASS [ok] 11.41s 1683 tok - 'The database cannot answer the question about the interest rate on Sonali Bank savings acc'
+q18 run 1: PASS [ok] 15.54s 1703 tok - 'The database cannot answer the question about the number of loans BRAC Bank approved in 20'
+q18 run 2: PASS [ok] 12.68s 1703 tok - 'The database cannot answer the question about the number of loans BRAC Bank approved in 20'
+q18 run 3: PASS [ok] 12.28s 1703 tok - 'The database cannot answer the question about the number of loans BRAC Bank approved in 20'
+# Evaluation `baseline` - model `qwen2.5:7b`
+
+18 questions x 3 runs = 54 runs
+
+| Metric | Value |
+|---|---|
+| pass@1 | 0.778 |
+| pass^3 | 0.667 |
+| mean tokens / run | 2990 |
+| mean model calls / run | 4.43 |
+| mean time / run (s) | 42.8 |
+
+| Category | pass@1 | pass^k |
+|---|---|---|
+| simple | 1.000 | 1.000 |
+| join | 0.889 | 0.667 |
+| grouping | 0.889 | 0.667 |
+| calculation | 0.333 | 0.250 |
+| multi_tool | 0.667 | 0.500 |
+| unanswerable | 1.000 | 1.000 |
+
+Per question (passes/runs): q01 3/3, q02 3/3, q03 3/3, q04 3/3, q05 2/3, q06 3/3, q07 3/3, q08 3/3, q09 3/3, q10 2/3, q11 0/3, q12 1/3, q13 0/3, q14 3/3, q15 3/3, q16 1/3, q17 3/3, q18 3/3
+
+Statuses: {'ok': 53, 'step_cap': 1}
+Failures: {'step_cap': 1, 'wrong_result': 9, 'sql_error_not_recovered': 2}
+
+Total time: 2312s

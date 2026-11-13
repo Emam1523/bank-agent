@@ -1,0 +1,216 @@
+﻿overhead=22 tokens; cache checks=[{'prompt': 'What is the capital of Japan?', 'first': 29, 'second': 29, 'cached': False}, {'prompt': 'জাপানের রাজধানী কী?', 'first': 43, 'second': 43, 'cached': False}]
+ 1 en in=  29 out=   8   1.28s
+ 1 bn in=  43 out=  28   4.36s
+ 2 en in=  32 out=  13   2.87s
+ 2 bn in=  43 out=  23   5.00s
+ 3 en in=  30 out=  10   2.28s
+ 3 bn in=  66 out= 173  29.31s
+ 4 en in=  28 out=  55   9.21s
+ 4 bn in=  36 out= 184  29.66s
+ 5 en in=  30 out=  11   2.40s
+ 5 bn in=  56 out= 200  33.39s TRUNCATED
+ 6 en in=  32 out=  15   3.04s
+ 6 bn in=  55 out=  91  15.88s
+ 7 en in=  30 out=  12   2.52s
+ 7 bn in=  65 out=  48   9.87s
+ 8 en in=  30 out=   8   2.00s
+ 8 bn in=  47 out=  23   5.24s
+ 9 en in=  30 out=  27   4.89s
+ 9 bn in=  54 out=  38   7.63s
+10 en in=  28 out=   6   1.60s
+10 bn in=  50 out=  35   7.17s
+11 en in=  32 out=  10   2.62s
+11 bn in=  62 out=  32   7.26s
+12 en in=  30 out=  21   4.09s
+12 bn in=  57 out=  99  17.14s
+13 en in=  31 out=  42   7.30s
+13 bn in=  69 out= 200  33.45s TRUNCATED
+14 en in=  30 out=  11   2.56s
+14 bn in=  59 out= 120  20.65s
+15 en in=  32 out=   3   1.37s
+15 bn in=  77 out=  49  10.84s
+16 en in=  32 out=  31   5.66s
+16 bn in=  72 out= 137  24.36s
+17 en in=  29 out=  10   2.19s
+17 bn in=  51 out= 132  22.16s
+18 en in=  29 out=  22   4.07s
+18 bn in=  58 out= 104  18.04s
+19 en in=  30 out=  33   5.88s
+19 bn in=  64 out= 176  29.60s
+20 en in=  29 out=  30   5.33s
+20 bn in=  71 out= 181  30.55s
+21 en in=  30 out=  40   6.82s
+21 bn in=  70 out= 200  33.73s TRUNCATED
+22 en in=  31 out=  42   7.42s
+22 bn in=  64 out= 200  33.72s TRUNCATED
+23 en in=  31 out=  53   8.85s
+23 bn in=  75 out= 200  34.21s TRUNCATED
+24 en in=  31 out=  37   6.35s
+24 bn in=  68 out= 191  32.06s
+25 en in=  30 out=  48   8.15s
+25 bn in=  59 out= 172  28.59s
+26 en in=  32 out=  88  14.39s
+26 bn in=  64 out= 200  33.44s TRUNCATED
+27 en in=  32 out=   3   1.25s
+27 bn in=  40 out=  11   2.98s
+28 en in=  34 out=   4   1.55s
+28 bn in=  61 out=  13   4.25s
+29 en in=  40 out=  10   2.89s
+29 bn in=  69 out=  26   6.66s
+30 en in=  34 out=   3   1.40s
+30 bn in=  46 out=  18   4.26s
+31 en in=  43 out=  14   3.48s
+31 bn in=  91 out=  32   8.82s
+32 en in=  30 out=   3   1.12s
+32 bn in=  36 out=  13   3.14s
+33 en in=  47 out=  12   3.41s
+33 bn in=  99 out=  33   9.32s
+34 en in=  32 out=  12   2.71s
+34 bn in=  42 out=  18   4.11s
+35 en in=  48 out=  11   3.40s
+35 bn in= 116 out=  52  12.96s
+36 en in=  43 out=  15   3.57s
+36 bn in= 156 out= 110  24.30s
+37 en in=  47 out=  18   4.15s
+37 bn in= 147 out=  54  15.24s
+38 en in=  45 out=  18   4.11s
+38 bn in= 137 out= 112  24.25s
+39 en in=  46 out=  26   5.39s
+39 bn in= 144 out=  96  21.64s
+40 en in=  42 out=  17   3.72s
+40 bn in= 127 out=  86  18.91s
+41 en in=  52 out=  16   3.99s
+41 bn in= 145 out=  59  14.40s
+42 en in=  44 out=  25   5.06s
+42 bn in= 148 out= 109  23.93s
+43 en in=  79 out=  37   9.06s
+43 bn in= 267 out= 200  45.81s TRUNCATED
+44 en in=  76 out=  77  14.98s
+44 bn in= 323 out= 200  48.14s TRUNCATED
+45 en in=  73 out= 200  34.11s TRUNCATED
+45 bn in= 291 out= 200  46.61s TRUNCATED
+46 en in=  91 out= 200  35.05s TRUNCATED
+46 bn in= 263 out= 200  44.99s TRUNCATED
+47 en in=  72 out=  66  13.36s
+47 bn in= 322 out= 200  47.75s TRUNCATED
+48 en in=  76 out= 200  34.25s TRUNCATED
+48 bn in= 285 out= 147  37.70s
+49 en in=  85 out=  11   5.09s
+49 bn in= 322 out=  43  22.77s
+50 en in=  74 out=  98  18.39s
+50 bn in= 311 out= 200  47.71s TRUNCATED
+{
+  "pairs": 50,
+  "totals": {
+    "en": {
+      "input_tokens": 2073,
+      "net_input_tokens": 973,
+      "output_tokens": 1782,
+      "cost_usd": 0.00138
+    },
+    "bn": {
+      "input_tokens": 5543,
+      "net_input_tokens": 4443,
+      "output_tokens": 5468,
+      "cost_usd": 0.004112
+    }
+  },
+  "overall_input_ratio": 2.6739,
+  "overall_net_input_ratio": 4.5663,
+  "overall_output_ratio": 3.0685,
+  "overall_total_cost_ratio": 2.9796,
+  "per_pair": {
+    "input_ratio": {
+      "mean": 2.3864,
+      "median": 2.15,
+      "min": 1.2,
+      "max": 4.4722,
+      "ci95": [
+        2.1557,
+        2.6308
+      ]
+    },
+    "net_input_ratio": {
+      "mean": 4.3633,
+      "median": 4.6458,
+      "min": 1.75,
+      "max": 7.0,
+      "ci95": [
+        4.0002,
+        4.716
+      ]
+    },
+    "output_ratio": {
+      "mean": 4.933,
+      "median": 3.9545,
+      "min": 0.735,
+      "max": 18.1818,
+      "ci95": [
+        3.968,
+        6.0588
+      ]
+    },
+    "total_cost_ratio": {
+      "mean": 3.7764,
+      "median": 3.4424,
+      "min": 0.9966,
+      "max": 11.5676,
+      "ci95": [
+        3.2223,
+        4.4035
+      ]
+    }
+  },
+  "latency_s": {
+    "en": {
+      "mean": 6.81,
+      "median": 4.08
+    },
+    "bn": {
+      "mean": 21.96,
+      "median": 21.9
+    }
+  },
+  "truncated": {
+    "en": 3,
+    "bn": 12
+  },
+  "by_category": {
+    "arithmetic": {
+      "pairs": 8,
+      "net_input_ratio_mean": 2.472,
+      "input_ratio_mean": 1.607,
+      "total_cost_ratio_mean": 2.133
+    },
+    "explanation": {
+      "pairs": 8,
+      "net_input_ratio_mean": 5.343,
+      "input_ratio_mean": 2.195,
+      "total_cost_ratio_mean": 4.108
+    },
+    "instruction": {
+      "pairs": 8,
+      "net_input_ratio_mean": 4.751,
+      "input_ratio_mean": 2.056,
+      "total_cost_ratio_mean": 5.111
+    },
+    "long": {
+      "pairs": 8,
+      "net_input_ratio_mean": 4.979,
+      "input_ratio_mean": 3.84,
+      "total_cost_ratio_mean": 2.577
+    },
+    "question": {
+      "pairs": 10,
+      "net_input_ratio_mean": 3.765,
+      "input_ratio_mean": 1.722,
+      "total_cost_ratio_mean": 4.489
+    },
+    "summarise": {
+      "pairs": 8,
+      "net_input_ratio_mean": 5.02,
+      "input_ratio_mean": 3.065,
+      "total_cost_ratio_mean": 4.063
+    }
+  }
+}

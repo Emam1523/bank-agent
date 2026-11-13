@@ -1,0 +1,27 @@
+
+services:
+  postgres:
+    image: postgres:18.4
+    container_name: bank-agent-postgres
+    restart: unless-stopped
+
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-postgres}
+      POSTGRES_USER: ${POSTGRES_USER:-postgres}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-postgres}
+
+    ports:
+      - "5434:5432"
+
+    volumes:
+      - bank_agent_data:/var/lib/postgresql
+
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-postgres} -d ${POSTGRES_DB:-postgres}"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  bank_agent_data:
+
