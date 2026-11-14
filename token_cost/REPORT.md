@@ -22,7 +22,7 @@ normal Bangla text does. *The Bangla was drafted with an AI assistant and must b
 
 | Measure | English | Bangla | Bangla ÷ English |
 |---|---|---|---|
-| Input tokens, total | 2,073 | 5,543 | **2.67** |
+| Input tokens, total (= **input cost ratio**) | 2,073 | 5,543 | **2.67** |
 | Net input tokens, total | 973 | 4,443 | **4.57** |
 | Output tokens, total | 1,782 | 5,468 | 3.07 |
 | Total cost (USD) | 0.001380 | 0.004112 | **2.98** |

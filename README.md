@@ -11,8 +11,9 @@ This is larger than the required minimum `qwen2.5:3b`, which the assignment allo
 AI-assistant use is logged in [AI_ASSISTANT_LOG.md](AI_ASSISTANT_LOG.md).
 
 ## Prerequisites
-Python 3.11+, Docker, Ollama. Create `.env` with `POSTGRES_DB/USER/PASSWORD`, `DB_HOST=localhost`,
-`DB_PORT=5434`, `DB_NAME/USER/PASSWORD`, `OLLAMA_BASE_URL=http://localhost:11434`, `OLLAMA_MODEL=qwen2.5:7b`.
+Python 3.11+, Docker, Ollama. A `.env` file is **optional**: without it, the defaults are used
+(PostgreSQL `postgres`/`postgres` on `localhost:5434`, Ollama `http://localhost:11434`, model `qwen2.5:7b`).
+To override them, set `POSTGRES_DB/USER/PASSWORD`, `DB_HOST/PORT/NAME/USER/PASSWORD`, `OLLAMA_BASE_URL`, `OLLAMA_MODEL`.
 
 ## Run everything (4 commands)
 

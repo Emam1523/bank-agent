@@ -80,5 +80,6 @@ compare groups as one row with `SUM(...) FILTER (WHERE ...)` columns; never type
 - Fewer tokens and less time in the final run come from fewer error-retry loops.
 
 ## Not done
-Bonus model comparison with `qwen2.5:3b`: not run (only `qwen2.5:7b` is installed). The command is ready:
-`ollama pull qwen2.5:3b && python -m evaluation.run_eval --model qwen2.5:3b --label 3b`.
+Bonus for Assignment 1 is the extra `calculator` tool. A model comparison on these 18 questions was not run
+(the 3b model was used for the Assignment 2 bonus). The command is ready:
+`python -m evaluation.run_eval --model qwen2.5:3b --label 3b`.
